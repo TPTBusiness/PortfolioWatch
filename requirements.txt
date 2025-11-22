@@ -1,0 +1,6 @@
+aiogram
+aiohttp
+aiofiles
+matplotlib
+numpy
+apscheduler
